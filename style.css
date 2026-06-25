@@ -8,3 +8,14 @@ header{
     padding: 16px;
     color: black;
 }
+main{
+    display: flex;
+    max-width: 800px;
+    margin: 20px;
+    padding: 15px;
+}
+article{
+    background-color: white;
+    color: black;
+    text-align: justify;
+}
